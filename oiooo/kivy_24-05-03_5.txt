@@ -1,0 +1,18 @@
+[INFO   ] Logger: Record log in C:\Users\aluno.sesipaulista\.kivy\logs\kivy_24-05-03_5.txt
+[INFO   ] deps: Successfully imported "kivy_deps.angle" 0.4.0
+[INFO   ] deps: Successfully imported "kivy_deps.glew" 0.3.1
+[INFO   ] deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+[INFO   ] Kivy: v2.3.0
+[INFO   ] Kivy: Installed at "C:\Users\aluno.sesipaulista\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\kivy\__init__.py"
+[INFO   ] Python: v3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)]
+[INFO   ] Python: Interpreter at "C:\Users\aluno.sesipaulista\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe"
+[INFO   ] Logger: Purge log fired. Processing...
+[INFO   ] Logger: Purge finished!
+[INFO   ] Factory: 195 symbols loaded
+[INFO   ] Image: Providers: img_tex, img_dds, img_sdl2 (img_pil, img_ffpyplayer ignored)
+[INFO   ] Video: Provider: null(['video_ffmpeg', 'video_ffpyplayer'] ignored)
+[WARNING] stderr: Traceback (most recent call last):
+[WARNING] stderr:   File "c:\Users\aluno.sesipaulista\Desktop\lou\oiooo.py\togglebutton.py", line 9, in <module>
+[WARNING] stderr:     MinhaApp().run() 
+[WARNING] stderr:     ^^^^^^^^
+[WARNING] stderr: NameError: name 'MinhaApp' is not defined. Did you mean: 'minhaapp'?
